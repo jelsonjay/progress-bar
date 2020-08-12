@@ -49,10 +49,79 @@ li::after {
 
 li.html::after {
     animation-name: html;
-
 }
 
-@keyframes progress-bar {
+@keyframes html {
+    to {
+        width: 70%;
+    }
+}
+
+li.css::after {
+    animation-name: css;
+}
+
+@keyframes css {
+    to {
+        width: 50%;
+    }
+}
+
+li.js::after {
+    animation-name: js;
+}
+
+@keyframes js {
+    to {
+        width: 40%;
+    }
+}
+
+li.react::after {
+    animation-name: react;
+}
+
+@keyframes react {
+    to {
+        width: 40%;
+    }
+}
+
+li.vue::after {
+    animation-name: vue;
+}
+
+@keyframes vue {
+    to {
+        width: 45%;
+    }
+}
+
+li.gatsby::after {
+    animation-name: gatsby;
+}
+
+@keyframes gatsby {
+    to {
+        width: 30%;
+    }
+}
+
+li.node::after {
+    animation-name: node;
+}
+
+@keyframes node {
+    to {
+        width: 40%;
+    }
+}
+
+li.mongo::after {
+    animation-name: html;
+}
+
+@keyframes html {
     to {
         width: 70%;
     }
