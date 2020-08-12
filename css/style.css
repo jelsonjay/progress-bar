@@ -118,12 +118,12 @@ li.node::after {
 }
 
 li.mongo::after {
-    animation-name: html;
+    animation-name: mongo;
 }
 
-@keyframes html {
+@keyframes mongo {
     to {
-        width: 70%;
+        width: 30%;
     }
 }
 
