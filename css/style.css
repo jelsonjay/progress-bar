@@ -11,9 +11,15 @@
 }
 
 body {
-    background: var(--mainWhite);
+    background: var(--mainBlack);
     color: var(--mainBlack);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    color: var(--mainOrange)
 }
 
 li {
@@ -22,6 +28,7 @@ li {
     font-weight: 300;
     margin: 25px 0;
     text-transform: uppercase;
+    color: var(--mainWhite);
 }
 
 li::before {
