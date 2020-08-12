@@ -34,6 +34,16 @@ li::before {
     background-color: rgba(56, 123, 225, 225);
 }
 
+li::after {
+    content: '';
+    position: absolute;
+    top: calc(100% + 1px);
+    left: 0;
+    width: 0;
+    height: 20px;
+    background-color: rgba(56, 123, 225, 25);
+}
+
 .wrapper {
     margin: 20px;
     width: 500px;
