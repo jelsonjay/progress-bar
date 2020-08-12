@@ -12,6 +12,8 @@
 
 body {
     background: var(--mainWhite);
+    color: var(--mainBlack);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .wrapper {}
