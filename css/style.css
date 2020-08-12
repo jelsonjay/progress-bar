@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --mainWhite: #fff;
+    --mainOrange: orange;
+    --mainBlack: #444;
+}
+
+body {
+    background: var(--mainWhite);
+}
+
+.wrapper {}
