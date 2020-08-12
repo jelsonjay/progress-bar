@@ -1,2 +1,2 @@
 # progress-bar
- simple animated progress bar usins only css
+ simple animated progress bar using only css
