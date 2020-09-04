@@ -1,5 +1,5 @@
-# progress-bar
- Simple animated progress bar using only html5 & css
+# Progress-bar
+ simple animated progress bar using only html5 & css3
  
  [Access My Project](https://jelsonjay.github.io/progress-bar/).
  
